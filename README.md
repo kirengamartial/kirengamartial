@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kirenga Martial</h1>
+<h1 align="center">Hi 👋, I'm Martial Kirenga</h1>
 <h3 align="center">A Software Developer from Rwanda</h3>
 
 ###
