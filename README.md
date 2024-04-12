@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Kirenga Martial</h1>
-<h3 align="center">A passionate frontend developer from a</h3>
+<h1 align="center">Hi 👋, I'm Martial Kirenga</h1>
+<h3 align="center">A passionate frontend developer from Rwanda</h3>
 <img align="right" alt"coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💬 Ask me about **nodejs, react, react-native**
