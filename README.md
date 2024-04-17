@@ -7,6 +7,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirengamartial&show_icons=true&locale=en&theme=dracula" alt="kirengamartial" style="width: 320px; height: 150px; margin-top: -10px;" />
 </div>
 
+###
+
+![](https://komarev.com/ghpvc/?username=kirengamartial0&color=brightgreen&style=for-the-badge&label=PROFILE+VISITS)
 
 ###
 
