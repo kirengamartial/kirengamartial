@@ -17,18 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning PostgreSQL<br>🎯 Goals: Building High-Quality Software.<br>🎲 Fun fact: I'm funny</p>
-
-
-###
-
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZH7FZAjAXRMT5qND0A3IEnIAIYP4GwvvEz82tAHlPQQ&s"  />
-
-###
-
-<h2 align="left">🌐 Explore some of my projects</h2>
-
-###
+<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning PostgreSQL<br>🎯 Goals: Building High-Quality Software.<br>🎲 Fun fact: I'm funny<br>🌐 Explore some of my projects</p>
 
 <a href="https://poe-therapy.vercel.app/">PoeTherapy</a> <br/>
 <a href="https://portfolio-1wih.onrender.com/">My Brand</a> <br/>
@@ -82,7 +71,7 @@
   <a href="mailto:martialkirenga61@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
-<a href="https://www.linkedin.com/in/martial-kirenga-3715b3241/" target="_blank">
+<a href="https://www.linkedin.com/in/martial-kirenga-3715b3241/" target="_blank" >
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 
