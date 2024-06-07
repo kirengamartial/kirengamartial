@@ -19,13 +19,23 @@
 
 <p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning PostgreSQL<br>🎯 Goals: Building High-Quality Software.<br>🎲 Fun fact: I'm funny</p>
 
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
 <img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZH7FZAjAXRMT5qND0A3IEnIAIYP4GwvvEz82tAHlPQQ&s"  />
+
+###
+
+<h2 align="left">🌐 Explore some of my projects</h2>
+
+###
+
+<a href="https://poe-therapy.vercel.app/">PoeTherapy</a> <br/>
+<a href="https://portfolio-1wih.onrender.com/">My Brand</a> <br/>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
