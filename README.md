@@ -20,7 +20,7 @@
 <p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning PostgreSQL<br>🎯 Goals: Building High-Quality Software.<br>🎲 Fun fact: I'm funny<br>🌐 Explore some of my projects</p>
 
 <a href="https://poe-therapy.vercel.app/">PoeTherapy</a> <br/>
-<a href="https://portfolio-1wih.onrender.com/">My Brand</a> <br/>
+<a href="https://portfolio-zeta-indol-62.vercel.app/">My Brand</a> <br/>
 
 ###
 
