@@ -1,6 +1,10 @@
 ## Hi 👋 I am Martial Kirenga
 ### A Software Developer from Rwanda
 
+<div>
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 🌱 I’m currently learning Full stack development and Computer networking <br>
 👯 I’m looking to collaborate with passionate developers <br>
 🤔 Looking forward to collaborate on big projects. <br>
@@ -16,5 +20,4 @@
 <a href="https://www.linkedin.com/in/martial-kirenga-3715b3241/" target="_blank" >
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-
 </div>
