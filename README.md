@@ -1,5 +1,5 @@
 ## Hi 👋 I am Martial Kirenga
-### A Software Developer from Rwanda
+### A Software Engineer from Rwanda
 
 <div>
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
