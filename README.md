@@ -5,7 +5,7 @@
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-🌱 I’m currently learning Full stack development and Computer networking <br>
+🌱 Obsessed with crafting exceptional software: optimizing workflows, building performant systems, and pushing the boundaries of coding excellence.  <br>
 👯 I’m looking to collaborate with passionate developers <br>
 🤔 Looking forward to collaborate on big projects. <br>
 
